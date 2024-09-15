@@ -2,7 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Unity String Extractor & Importer는 Unity 게임의 텍스트를 손쉽게 추출하고 번역하여 다시 적용할 수 있는 강력한 도구입니다. 
+Unity String Extractor & Importer는 Unity 게임의 텍스트를 손쉽게 추출하고 번역하여 다시 적용할 수 있는 강력한 도구입니다.
+
 일반적으로 많이 사용되는 Unity의 스트링 방식 중 하나를 지원하며, Example.txt를 열어 확인할 수 있습니다.(정해진 형식 외의 스트링은 작업할 수 없습니다!)
 
 🚀 **주요 기능**
