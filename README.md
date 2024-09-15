@@ -14,6 +14,10 @@ Unity String Extractor & Importer는 Unity 게임의 텍스트를 손쉽게 추�
 * **대용량 파일 지원:** 스트리밍 처리 방식을 사용하여 대용량 스트링 파일도 효율적으로 처리합니다.
 * **사용자 친화적인 GUI:** 직관적인 GUI를 통해 누구나 쉽게 사용할 수 있습니다.
 
+📥 **다운로드**
+
+최신 버전의 프로그램은 [Releases 페이지](https://github.com/koori0831/Unity-String-Extractor-Importer/releases)에서 다운로드할 수 있습니다.
+
 🧰 **사용 방법**
 
 1. "Unity String File" 텍스트 박스 옆의 "Browse" 버튼을 클릭하여 Unity 스트링 파일을 선택합니다.(.txt형식을 추천합니다. 주의: UABEA DUMP방식으로만 테스트됨.)
