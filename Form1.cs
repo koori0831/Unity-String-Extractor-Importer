@@ -8,7 +8,6 @@ namespace Unity_Game_StringToCSV
     {
         private StringProcessor stringProcessor;
         private Logger logger;
-
         private Button button1;
         private Button button2;
         private Button button3;

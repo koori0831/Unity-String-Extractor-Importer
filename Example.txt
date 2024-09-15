@@ -1,0 +1,109 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = -2378050947708348859
+ 1 string m_Name = "Example_Text"
+ 0 LocaleIdentifier m_LocaleId
+  1 string m_Code = "Example"
+ 0 PPtr<$SharedTableData> m_SharedData
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 6582293155908772813
+ 0 MetadataCollection m_Metadata
+  0 IMetadata m_Items
+   0 Array Array (1 items)
+    0 int size = 1
+    [0]
+     0 managedRefArrayItem data
+      0 SInt64 rid = 2153770819694624770
+ 0 TableEntryData m_TableData
+  0 Array Array (5 items)
+   0 int size = 5
+   [0]
+    0 TableEntryData data
+     0 SInt64 m_Id = 243915116544
+     1 string m_Localized = "이러한 형식의"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [1]
+    0 TableEntryData data
+     0 SInt64 m_Id = 329631709876224
+     1 string m_Localized = "정형화된"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [2]
+    0 TableEntryData data
+     0 SInt64 m_Id = 330586677399552
+     1 string m_Localized = "Unity의"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [3]
+    0 TableEntryData data
+     0 SInt64 m_Id = 405993212694528
+     1 string m_Localized = "스트링 파일만"
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+   [4]
+    0 TableEntryData data
+     0 SInt64 m_Id = 406200537141248
+     1 string m_Localized = "가능합니다."
+     0 MetadataCollection m_Metadata
+      0 IMetadata m_Items
+       0 Array Array (0 items)
+        0 int size = 0
+ 0 ManagedReferencesRegistry references
+  0 int version = 2
+  0 vector RefIds
+   1 Array Array
+    0 int size = 1
+    0 ReferencedObject data
+     0 SInt64 rid = 2153770819694624770
+     0 ReferencedManagedType type
+      1 string class = "SmartFormatTag"
+      1 string ns = "UnityEngine.Localization.Metadata"
+      1 string asm = "Unity.Localization"
+     0 ReferencedObjectData data
+      0 vector m_Entries
+       1 Array Array (15 items)
+        0 int size = 15
+        [0]
+         0 SInt64 data = 55779260042829824
+        [1]
+         0 SInt64 data = 55781938735079424
+        [2]
+         0 SInt64 data = 55782855488299008
+        [3]
+         0 SInt64 data = 55783022518067200
+        [4]
+         0 SInt64 data = 55783091027828736
+        [5]
+         0 SInt64 data = 55783863438270464
+        [6]
+         0 SInt64 data = 55784118003163136
+        [7]
+         0 SInt64 data = 55821354593673216
+        [8]
+         0 SInt64 data = 55844356123254784
+        [9]
+         0 SInt64 data = 55855185065402368
+        [10]
+         0 SInt64 data = 55784162127241216
+        [11]
+         0 SInt64 data = 65929155869401088
+        [12]
+         0 SInt64 data = 107233918984380416
+        [13]
+         0 SInt64 data = 116270194287030272
+        [14]
+         0 SInt64 data = 100054014131953664
