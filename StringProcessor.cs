@@ -94,7 +94,7 @@ namespace Unity_Game_StringToCSV
                         {
                             if (translations.ContainsKey(id))
                             {
-                                newLines.Add($"\t1 string m_Localized = \"{translations[id]}\"");
+                                newLines.Add($"     1 string m_Localized = \"{translations[id]}\"");
                             }
                             else
                             {
